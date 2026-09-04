@@ -22,7 +22,7 @@ pnpm-debug.log*
 
 
 # Excluir la carpeta de configuración interna de Obsidian
-vault/.obsidian/
+# vault/.obsidian/
 
 # EXCEPCIONES: Si quieres guardar tus plugins o temas en Git,
 # borra el '#' de las siguientes líneas para permitir su rastreo:
