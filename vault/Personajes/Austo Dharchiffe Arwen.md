@@ -1,0 +1,14 @@
+
+Alto elfo, warlok nivel 3
+
+Un antiguo mago/soldado de una guerra mágica en la que perdió casi todo. Finalizando la guerra hace un pacto con un archidiablo que le promete darle los medios para evitar un evento apocalíptico. El evento sucede, no lo pudo evitar y el pacto sigue. 
+
+Después de la guerra se enfrenta a su antiguo mejor amigo, un poderoso mago que se volvió un tirano. Ese evento dejó a ambos casi muertos, pero el patrón de Austo aún no lo quería muerto, pues le era un mercenario muy útil. 
+
+Austo logra casarse con el amor de su vida, Serenya Starling, junto a ella tiene a su hija, Eleanor Arwen Starling. Sin embargo, tiene muchísimo que no las ves pues su alma está condenada Al infierno. 
+
+Austo está con este grupo sabiendo que seguramente su patrón tiene una misión para él, en la que sabe que probablemente acabe muerto.
+
+Austo es carismático, amable y busca indagar en todo lo que le sea posible. Puede ser muy despiadado si es necesario, no tentándose el corazón si eso garantiza cumplir su misión, sea cual sea. Lo que más disfruta es leer y tocar música. Pese a su calma amable, se constantemente atormentado por los recuerdos de la guerra y de lo que ha tenido que hacer por su pacto.
+
+![[Austo.png|198]]
