@@ -1,11 +1,23 @@
 // @ts-check
+// @ts-ignore
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightObsidian, { obsidianSidebarEntries } from 'starlight-obsidian'
+
+
+const vault = "./vault"
+
+
 
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
 		starlight({
+			plugins: [
+				starlightObsidian({
+					vault
+				}),
+			],
 			title: 'My Docs',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
@@ -19,6 +31,11 @@ export default defineConfig({
 				{
 					label: 'Reference',
 					items: [{ autogenerate: { directory: 'reference' } }],
+				},
+				{
+					label: 'Notes',
+					// Add the generated Obsidian sidebar entries to this group.
+					items: [obsidianSidebarEntries],
 				},
 			],
 		}),

@@ -19,3 +19,17 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+
+# Excluir la carpeta de configuración interna de Obsidian
+vault/.obsidian/
+
+# EXCEPCIONES: Si quieres guardar tus plugins o temas en Git,
+# borra el '#' de las siguientes líneas para permitir su rastreo:
+# !vault/.obsidian/plugins/
+# !vault/.obsidian/themes/
+
+# Archivos ocultos del sistema operativo (Mac/iCloud)
+.DS_Store
+.Trash/
+EOF
