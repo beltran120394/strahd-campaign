@@ -8,8 +8,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "sync": "rsync -av --delete \"/Users/beltran120394/Library/Mobile Documents/iCloud~md~obsidian/Documents/La Maldición de Strahd/\" ./vault/ && git status",
-    "push-all": "npm run sync && git add . && git commit -m \"Update notes from Obsidian\" && git push"
+    "updates-notes": "astro build && git add . && git commit -m \"Update notes from Obsidian\" && git push"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.42.0",
