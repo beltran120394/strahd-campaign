@@ -16,7 +16,7 @@ export default defineConfig({
 			plugins: [
 				starlightObsidian({
 					vault,
-					skipGeneration: true,
+					skipGeneration: !!process.env['VERCEL'],
 				}),
 			],
 			title: 'My Docs',
