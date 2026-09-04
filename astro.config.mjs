@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 import starlightObsidian, { obsidianSidebarEntries } from 'starlight-obsidian'
 
 
-const vault = "./vault"
+const vault = "/Users/beltran120394/Library/Mobile Documents/iCloud~md~obsidian/Documents/La Maldición de Strahd"
 
 
 
@@ -15,7 +15,8 @@ export default defineConfig({
 		starlight({
 			plugins: [
 				starlightObsidian({
-					vault
+					vault,
+					skipGeneration: true,
 				}),
 			],
 			title: 'My Docs',
