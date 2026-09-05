@@ -4,9 +4,9 @@ editUrl: false
 ---
 
 [Vallaki](/notes/geografia/vallaki) es un lugar muy oprimido para vivir. El miedo generalizado de [Strahd](/notes/ncps/strahd-von-zarovich)
-hizo que la gente fuera paranoica y hace mucho tiempo eligieron a la [Familia Vallakovich](/notes/familia-vallakovich) para mantenerlos a salvo. La familia Vallakovich es antigua y creen que se requieren leyes estrictas para mantener a Vallaki a salvo del vampiro en lo alto. El nivel de severidad de estas reglas ha variado de un gobernante a otro, pero siempre hay algunas pautas duras que los habitantes de Vallaki tienen que seguir.
+hizo que la gente fuera paranoica y hace mucho tiempo eligieron a la [Familia Vallakovich](/notes/ncps/familia-vallakovich) para mantenerlos a salvo. La familia Vallakovich es antigua y creen que se requieren leyes estrictas para mantener a Vallaki a salvo del vampiro en lo alto. El nivel de severidad de estas reglas ha variado de un gobernante a otro, pero siempre hay algunas pautas duras que los habitantes de Vallaki tienen que seguir.
 
-Con [Vargas Vallakovich](/notes/vargas-vallakovich) a cargo, Vallaki tiene las siguientes leyes:
+Con [Vargas Vallakovich](/notes/ncps/vargas-vallakovich) a cargo, Vallaki tiene las siguientes leyes:
 
 * Nadie dirá el nombre de **Strahd** en voz alta ni llevará documentos escritos con su nombre. Vargas cree de corazón que hablar del diablo es convocar al diablo. Así que todo Vallaki tiene una especie de cosa de Voldemort, refiriéndose a Strahd simplemente como "El Diablo" o "Tú-Sabes-Quién".
 * Del mismo modo, nadie hablará mal del Barón o de los festivales ni tendrá ningún documento que se presente bajo una mala luz. La moral lo significa todo aquí. ¡Tratar de romper los espíritus de tus compañeros vallakians es criminal!

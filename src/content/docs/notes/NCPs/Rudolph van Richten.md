@@ -1,40 +1,30 @@
 ---
-title: Rictavio
+title: Rudolph van Richten
 editUrl: false
 ---
 
-Tenia un mono [Piccolo](/notes/piccolo) pero se lo regalo a [Blinsky](/notes/gadof-blinsky)
+Tenia un mono [Piccolo](/notes/ncps/piccolo) pero se lo regalo a [Blinsky](/notes/ncps/gadof-blinsky)
 
 **La leyenda**
 
 Rudolph van Richten es un viejo cazador de monstruos. Déjame decirlo de nuevo... es un *viejo* cazador de monstruos. Se metió en el comercio de caza de monstruos alrededor de la época en que su hijo tenía 14 años, lo que probablemente pondría a Van Richten a finales de los treinta y cuarenta. Estacionándolo, probablemente ya esté al *menos* en sus 80 años. Este es un hombre que ha estado cazando y matando monstruos durante *décadas.*
 
-El nombre Van Richten es conocido; la gente común lo sabe, los *monstruos* lo saben, él es una \_leyenda.\_Imagínate, si quieres, las "historias de miedo" que los padres cuentan a sus hijos para posiblemente asustarlos de ciertas cosas. Van Richten es la historia aterradora que los monstruos cuentan a sus hijos. Para cuando tus jugadores lo conozcan (de verdad, no solo su disfraz), deberían haber escuchado el nombre varias veces. Entonces, ¿cómo debería jugarse esto? Aquí hay algunas ideas...
+El nombre Van Richten es conocido; la gente común lo sabe, los *monstruos* lo saben, él es una \_leyenda. Imagínate, si quieres, las "historias de miedo" que los padres cuentan a sus hijos para posiblemente asustarlos de ciertas cosas. Van Richten es la historia aterradora que los monstruos cuentan a sus hijos. Para cuando tus jugadores lo conozcan (de verdad, no solo su disfraz), deberían haber escuchado el nombre varias veces. Entonces, ¿cómo debería jugarse esto? Aquí hay algunas ideas...
 
 * Van Richten escribió una serie de libros, detallando todo lo que sabía sobre monstruos de todo tipo. La serie "La guía de Van Richten para el \[monstruo]". Tal vez tus jugadores encuentren una copia de uno... tal vez cuando tengan éxito en una verificación de conocimiento del monstruo, les digas que recuerdan haber leído \[hecho] en el libro Van Richten's Guide to \[monster].
-
 * Si los jugadores hacen algo impresionante que involucre la mata de monstruos, haz que los NPC los comparen con las leyendas que han escuchado de Van Richten.
-
 * Tal vez trabaje con un jugador para inyectar un encuentro con Van Richten en su historia de fondo.
-
-* Si los ordenadores están dando vueltas en algún lugar, tal vez alguien en una taberna se lance a una historia de una de las hazañas de Rudolph Van Richten.
-
+* Si los jugadores están dando vueltas en algún lugar, tal vez alguien en una taberna se lance a una historia de una de las hazañas de Rudolph Van Richten.
 * Algunos monstruos *le* tienen *miedo.* Si Van Richten deja caer el disfraz de Rictavio y se hace conocido quién es, los monstruos inteligentes pueden resistirse a la idea de luchar contra él. Otros pueden apuntarlo específicamente por la "gloria de matar a Van Richten".
-
-* Si los NPC se dan cuenta de quién es, su trato hacia él debe rorimar la adoración... aunque distante. Imagínate si Batman aparera de repente en el pub local. Están asombados por él, lo admiran, pero le tienen un poco de miedo.
-
-Ahora, a mi habitual desglose pieza por pieza...
+* Si los NPC se dan cuenta de quién es, su trato hacia él debe la adoración... aunque distante. Imagínate si Batman apareciera de repente en el pub local. Están asombrados por él, lo admiran, pero le tienen un poco de miedo.
 
 **El comienzo - Un médico**
 
 Antes de que Van Richten se convirtiera en el gran cazador de monstruos que se conoce hoy en día, era médico. Su experiencia médica debería continuar con la forma en que opera hoy en día.
 
 * Tiene un buen chequeo de medicamentos, y debería ser rápido para buscar la causa de la muerte, estabilizar a las personas heridas, tratar las heridas, etc.
-
 * Debería tener una gran comprensión de la anatomía, y ha ampliado este conocimiento para incluir la anatomía y la biología de los monstruos. Él sabe lo que les hace daño y por qué, sabe dónde golpearlos para que les duela. Lo ha descubierto haciendo autopsias a los monstruos que mató.
-
 * Para reflejar su experiencia médica, le di el Healer Feat. (En serio, ¿qué médico no podría usar suministros médicos para parchear a alguien de manera efectiva?)
-
 * Su forma de pensar y su enfoque de las cosas tiene una inclinación académica. No se apresura a correr en peligro y, en cambio, recopila información antes de actuar.
 
 **El peso de la experiencia**
@@ -42,19 +32,12 @@ Antes de que Van Richten se convirtiera en el gran cazador de monstruos que se c
 Van Richten es (ciertamente dentro de Ravenloft) el cazador de monstruos más experimentado que jamás haya existido. Además, sabemos que ha sacado criaturas muy fuera de su categoría de peso. De acuerdo con Ravenloft Lore, la realidad virtual ha eliminado a vampiros completos, licántropos de todo tipo y al menos un Señor de la Momia. Entonces, ¿qué significa esto? Bueno... básicamente, mezcla un Witcher y Batman, luego empacalo en un tipo muy viejo.
 
 * Si involucra monstruos, Van Richten lo sabe. No es necesario comprobar.
-
 * Si un monstruo es vulnerable a algo, lo está cargando. Siéntete libre de incluir vulnerabilidades "tradicionales" que los monstruos podrían tener que no están necesariamente en los libros. Wolfsbane (Aconite especialmente preparado) repele o envenena a los hombres lobo, el ajo repele a los vampiros, etc.
-
 * Si hay algo que puedes crear que dañe a un monstruo, él sabe cómo hacerlo.
-
 * Si sabe de antemano con qué tipo de monstruo se va a enfrentar y hay un hechizo clérigo que sería útil, supongamos que lo preparó.
-
 * Su capacidad para predecir las acciones de los monstruos debería ser casi impecable. Como el DM... tramposo directo con sus habilidades predictivas. Sabes lo que tus monstruos van a hacer a continuación, así que haz que reaccione en consecuencia. Ve a los hombres lobo al frente y predice correctamente que otro grupo se movería sigilosamente para flanquear al grupo. Si alguien está a punto de apresurarlo y atacarlo, se mueve fuera de su rango de movimiento antes de que pueda cargar. Cuando se trata de ser atacado por monstruos, simplemente nunca se sorprende de lo que hacen. Strahd es una excepción... los vampiros mayores son extremadamente difíciles de predecir.
-
 * Su comprensión de cómo se comportan los monstruos debería ser extraña. No necesita rastrearlos, generalmente puede hacer una suposición confiable sobre dónde estaría su barida. Si decide atacar a un monstruo para emboscarlo cuando ataque a alguien la próxima vez, siempre asemplaza el lugar correcto.
-
 * Puede producir soluciones no tradicionales para lidiar con ciertos tipos de monstruos. Por ejemplo, puede ser capaz de encontrar una manera de dejar descansar a un fantasma (rompiendo sus lazos con el mundo), en lugar de tener que luchar contra él.
-
 * Utilizará sus habilidades para ayudar a la coordinación del partido. No es un especialista en tácticas de unidades pequeñas, por lo que en realidad no intentará comandar los ordenadores, pero les dará consejos y llamará advertencias. Por ejemplo: "¡El ataque desde el frente es un seco!"
 
 El conjunto de habilidades de Van Richten debería ser ecléctico en el extremo. Opero bajo la suposición de que él ha recogido trozos y piezas de conocimiento útil de todo el lugar. No es competente con las herramientas de Smith, pero sabe cómo hacer un arma de plata. No es competente con un kit de envenenador, pero sabe cómo hacer varias toxinas y compuestos que son efectivos contra varios tipos de monstruos. No es un superviviente competente, pero puede identificar huellas de monstruos a la vista. No es competente en Investigación, pero puede reunir la evidencia de un ataque de monstruo fácil como respirar.
@@ -68,15 +51,10 @@ Van Richten Mata Monstruos. Él no *lucha*, ni *caza* a los monstruos, los 
 Para el resto de ustedes, permítanme darles una explicación rápida: en esa historia, el personaje principal está en una campaña de exterminio de un solo hombre contra los duendes. Las personas que viajan con él están constantemente sorprendidas (y horrorizadas) por todos los trucos furtivos, sucios y furtivos que hace para matar al máximo número de duendes de la manera más rápida y eficiente posible. Así debería ser como funciona Van Richten... solo por dar algunos ejemplos...
 
 * ¿Nigromante y sus muertos vivientes se enconden en una antigua mansión? Arre las puertas y prenderlo.
-
 * ¿Vampiro construyó su la landa en terrenos bajos? Desvíe un río para inundarlo todo con agua corriente.
-
 * ¿Vampiro no se aseguró de que su ataúd estuviera debajo de suficientes capas de material sólido? Sopla/rasgarra la parte superior y baña el ataúd a la luz del día.
-
 * ¿Encontraste el ataúd del vampiro antes de ir a matarlo? ¿Alguien conoce el hechizo Leomund's Tiny Hut? Eso evitará que la forma de niebla del vampiro vuelva a su ataúd.
-
 * ¿ Cueva llena de hombres lobo? Encienda grandes fuegos en las entradas, luego hunda la entrada más allá del fuego... luego espere a que el fuego se coma todo el aire de la cueva.
-
 * ¿Nigromante con un ejército? Infecta al ejército con Corpseblight (ver mi [artículo de Ezmerelda](https://redd.it/8wct9k)) y luego poner un perno de ballesta en la garganta del nigromante mientras lucha por averiguar por qué su ejército de muertos vivientes se está desmoronando.
 
 En resumen... si puedes pensar en una forma horrible, brutal y/o eficiente para que él mate cosas con el medio ambiente, sin ponerse realmente en peligro directamente... lo hará.

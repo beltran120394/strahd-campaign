@@ -8,7 +8,7 @@ editUrl: false
 * [Abastos de Bildrath](/notes/geografia/abastos-de-bildrath)
 * [Taberna Sangre de la Vid](/notes/taberna-sangre-de-la-vid)
 * [La casa de Mary la Desquiciada](/notes/la-casa-de-mary-la-desquiciada)
-* [Mansión del Burgomaestre](/notes/mansión-del-burgomaestre)
+* [Mansión del Burgomaestre](/notes/geografia/mansión-del-burgomaestre)
 * [Iglesia](/notes/iglesia)
 * [Casa Embrujada](/notes/casa-embrujada)
 
